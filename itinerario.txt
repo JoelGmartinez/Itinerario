@@ -2,11 +2,11 @@
 MARTES
 
 5:00: Me levanto 
-2. 6:00: Voy saliendo de casa
-3. 6:30: Llego al colegio e inicio clases con Castellano
-4. 7:30: Inicia Quimica
-5. 9:30: receso 
-6. 10:30: Informatica
-7. 12:30: fisica
-8. 12:31: Pa' la casa
-9. 1:00: llego a casa y almuerzo
+6:00: Voy saliendo de casa
+6:30: Llego al colegio e inicio clases con Castellano
+7:30: Inicia Quimica
+9:30: receso 
+10:30: Informatica
+12:30: fisica
+12:31: Pa' la casa
+1:00: llego a casa y almuerzo
