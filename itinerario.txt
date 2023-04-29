@@ -20,4 +20,17 @@ MARTES
 10:30: Informatica
 12:30: fisica
 12:31: Pa' la casa
+
+Miércoles
+
+5:00: Me levanto 
+6:00: Voy saliendo de casa
+6:30: Llego al colegio hacemos formación 
+7:00: Inicia Quimica:30: receso 
+8:30: Informatica
+9:30: receso
+9:30: religión
+11:30:castellano
+12:31: Avisan que hay covid y que mañana no hay clases
+12:32: Pa' la casa
 1:00: llego a casa y almuerzo
