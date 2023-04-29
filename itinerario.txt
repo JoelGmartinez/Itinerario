@@ -1,7 +1,12 @@
 
 MARTES
-1. Me levanto a las 5 de la mañana 
-2. A las 6 voy saliendo de casa y tomo el bus
-3. A las 6:30 llego e inicio mis labores
-4. Al terminar a las 5 salgo del trabajo y tomo el bus a casa
-5. a las 5:30 llego a casa 
+
+5:00: Me levanto 
+2. 6:00: Voy saliendo de casa
+3. 6:30: Llego al colegio e inicio clases con Castellano
+4. 7:30: Inicia Quimica
+5. 9:30: receso 
+6. 10:30: Informatica
+7. 12:30: fisica
+8. 12:31: Pa' la casa
+9. 1:00: llego a casa y almuerzo
